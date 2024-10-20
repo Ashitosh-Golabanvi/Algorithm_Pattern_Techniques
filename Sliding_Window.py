@@ -1,4 +1,4 @@
-# Sliding Window Algorithm Approach : 
+# Sliding Window Algorithm Approach : Is problem solving technique, which will optimize the time and space complexity, which is used when we need to evaluate the subarrays or substrings.
 # Problem Statement: Given an array of integers and a number k, find the maximum sum of any contiguous subarray of size k.
 
  def Slide(arr, k):
