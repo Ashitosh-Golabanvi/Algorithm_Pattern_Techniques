@@ -1,5 +1,5 @@
-## Sliding Window Algorithm Approach : 
-def Slide(arr, k):
+# Sliding Window Algorithm Approach : 
+ def Slide(arr, k):
   n = len(arr)
   if n < k:
     return None
