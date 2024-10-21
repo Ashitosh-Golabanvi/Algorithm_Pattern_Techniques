@@ -23,3 +23,8 @@ for i in range(a):
 target=int(input(":"))
 print(Two(arr,target))
 
+
+
+
+
+# Reversing a string using two pointers:
