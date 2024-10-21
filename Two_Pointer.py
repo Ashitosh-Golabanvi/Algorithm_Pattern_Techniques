@@ -15,14 +15,13 @@ def Two(arr, target):
       right -= 1
   return False
 
-a = int(input(":"))
+a = int(input("Enter How many Number Of Elements You want:"))
 arr = []
 for i in range(a):
   b=int(input(":"))
   arr.append(b)
-target=int(input(":"))
+target=int(input("Enter Target Value:"))
 print(Two(arr,target))
-
 
 
 
