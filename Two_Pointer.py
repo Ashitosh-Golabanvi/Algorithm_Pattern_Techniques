@@ -28,3 +28,16 @@ print(Two(arr,target))
 
 
 # Reversing a string using two pointers:
+def Two(s):
+  s = list(s)
+  left, right =0, len(s)-1
+
+  while left < right:
+    s[left],s[right] = s[right],s[left]
+    left += 1
+    right -= 1
+
+  return ''.join(s)
+
+s=input("Enter the String:")
+print(Two(s))
