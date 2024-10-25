@@ -24,3 +24,7 @@ def Merge(intervals):
 intervals = [[1, 3], [2, 6], [8, 10], [15, 18]]
 result = Merge(intervals)
 print(result)
+
+
+
+-----++++++-------+++++++-------+++++++------+++++++------++++++++
