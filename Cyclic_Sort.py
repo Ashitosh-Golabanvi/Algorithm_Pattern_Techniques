@@ -7,6 +7,8 @@
 
 ** Conditions:**
 * The major Drowback Of This Pattern is the Given elements of inputs should be Naughbor Elements
+* The Input values should be under the number of value, Like : We want to give 6 Inputs, The Values should Be Under The 6 Numbers For this case Only It Will work.
+
 
 * Ex: I/P: 3,1,5,4,2
 * Like this Inputs won't work: 5,6,1,8,10
