@@ -22,3 +22,7 @@ for i in range(a):
   arr.append(b)
 target = int(input("Enter the target value:"))
 print(Binary(arr,target))
+
+
+
+---------------------------------++++++++++++++++++++++++++++++++
