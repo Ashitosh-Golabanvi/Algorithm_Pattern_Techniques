@@ -46,3 +46,6 @@ def Long(s):
 
 s = input("Enter value:")
 print(Long(s))
+
+
+------
