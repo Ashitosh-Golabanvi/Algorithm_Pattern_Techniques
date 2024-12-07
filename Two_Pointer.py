@@ -40,3 +40,7 @@ def Two(s):
 
 s=input("Enter the String:")
 print(Two(s))
+
+
+
+--------
